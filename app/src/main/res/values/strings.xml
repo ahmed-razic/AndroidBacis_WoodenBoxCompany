@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Wooden Box</string>
+    <string name="woodenBoxImage">woodeboximage</string>
+    <string name="_07_17_00_h">07 till 17:00 h</string>
+    <string name="sarajevo_bih">Sarajevo, BiH</string>
+    <string name="location">Location:</string>
+    <string name="contact">Contact:</string>
+    <string name="working_hours">Working hours:</string>
+    <string name="about_us">About Us</string>
+    <string name="_033_777_777">033/77 77 77</string>
+    <string name="companyName">Wooden Box Company</string>
+    <string name="wooden_box_company">Wooden Box Company</string>
+</resources>
